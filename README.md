@@ -12,7 +12,9 @@ These goals present a unique real-world Machine Learning prediction problem and 
 
 ## Data
 
-I used two datasets from https://archive.ics.uci.edu/ml/datasets/Student+Performance# - student achievement in secondary education of two Portuguese schools, it was collected by using school reports and questionnaires, the dataset was modeled under binary/five-level classification and regression tasks.
+I used two datasets from https://archive.ics.uci.edu/ml/datasets/Student+Performance# - student achievement in secondary education of two Portuguese schools.
+
+The data attributes include student grades, demographic, social and school related features, it was collected by using school reports and questionnaires, the dataset was modeled under binary/five-level classification and regression tasks.
 
 ## Environment and tools
 1. Jupyter notebook
@@ -23,6 +25,10 @@ I used two datasets from https://archive.ics.uci.edu/ml/datasets/Student+Perform
 
 I choose linear regression and got an accuracy of 88.2% on the test set. 
 
-### From this model the highest grade is 18 and the lowest 0.
+### From this model the highest grade achieved is '18' and the lowest grade achieved is '0'.
+
+## Citation
+
+P. Cortez and A. Silva. Using Data Mining to Predict Secondary School Student Performance. In A. Brito and J. Teixeira Eds., Proceedings of 5th FUture BUsiness TEChnology Conference (FUBUTEC 2008) pp. 5-12, Porto, Portugal, April, 2008, EUROSIS, ISBN 978-9077381-39-7. 
 
 
