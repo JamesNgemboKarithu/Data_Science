@@ -12,7 +12,7 @@ These goals present a unique real-world Machine Learning prediction problem and 
 
 ## Data
 
-I used two datasets from https://archive.ics.uci.edu/ml/datasets/Student+Performance# - student achievement in secondary education of two Portuguese schools, it was collected by using school reports and questionnaires, the dataset were modeled under binary/five-level classification and regression tasks.
+I used two datasets from https://archive.ics.uci.edu/ml/datasets/Student+Performance# - student achievement in secondary education of two Portuguese schools, it was collected by using school reports and questionnaires, the dataset was modeled under binary/five-level classification and regression tasks.
 
 ## Environment and tools
 1. Jupyter notebook
