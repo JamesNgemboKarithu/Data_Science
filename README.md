@@ -25,7 +25,7 @@ The data attributes include student grades, demographic, social and school relat
 
 I choose linear regression and got an accuracy of 88.2% on the test set. 
 
-### From this model the highest grade achieved is '18' and the lowest grade achieved is '0'.
+### From this model the highest grade achieved is '18' and the lowest grade achieved is '0' out of '20'.
 
 ## Citation
 
